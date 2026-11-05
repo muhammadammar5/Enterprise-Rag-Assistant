@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the minimum age to become a member of the National Assembly?",
+    "reference_answer": "25 years.",
+    "source": "constitution.pdf",
+    "page": 42
+  },
+  {
+    "question": "Which section describes the termination of the agreement?",
+    "reference_answer": "Section 12 (Termination).",
+    "source": "contract.pdf",
+    "page": 7
+  }
+]
